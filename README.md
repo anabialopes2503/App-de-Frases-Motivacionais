@@ -1,10 +1,10 @@
 # App-de-Frases-Motivacionais 📃
 
-Ideia escolhida: 
+**Ideia escolhida:** 
 
 Aplicativo de frases motivacionais; 
 
-Divisão das atividades:
+**Divisão das atividades:**
 
 1-	Fazer o layout – Thayssa; 
 
@@ -19,6 +19,21 @@ Divisão das atividades:
 6-	Criar o repositório – Ana Beatriz Lopes
 
 7-	Criar o README – Ana Beatriz Lopes
+
+**O que sabemos?**
+
+1- Criar as classes;
+
+**O que temos que pesquisar?** 
+
+1- Frases motivacionais;
+
+2- Imagens;
+
+3- Ideias de Layout;
+
+4- Cores para o aplicativo na paleta de cores;
+
 
 
 Integrantes: Ana Beatriz Lopes, Anna Gabriela Chagas, Emanuelle Oliveira, Júlia Corrêa, Thayssa Porto e Yasmim Mota.
