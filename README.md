@@ -1,7 +1,7 @@
 
 # App-de-Frases-Motivacionais 📃
 
-**Ideia escolhida:** 
+💡 **Ideia escolhida:** 
 
 Aplicativo de frases motivacionais; 
 
@@ -25,7 +25,7 @@ Aplicativo de frases motivacionais;
 
 1- Criar as classes;
 
-**O que temos que pesquisar?** 
+🔎 **O que temos que pesquisar?** 
 
 1- Frases motivacionais;
 
@@ -37,5 +37,5 @@ Aplicativo de frases motivacionais;
 
 
 
-**Integrantes:** Ana Beatriz Lopes, Anna Gabriela Chagas, Emanuelle Oliveira, Júlia Corrêa, Thayssa Porto e Yasmim Mota.
+🤓 **Integrantes:** Ana Beatriz Lopes, Anna Gabriela Chagas, Emanuelle Oliveira, Júlia Corrêa, Thayssa Porto e Yasmim Mota.
 Firjan Senai
