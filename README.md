@@ -38,4 +38,5 @@ Aplicativo de frases motivacionais;
 
 
 **Integrantes:** Ana Beatriz Lopes, Anna Gabriela Chagas, Emanuelle Oliveira, Júlia Corrêa, Thayssa Porto e Yasmim Mota.
-Firjan Senai
+
+**Firjan Senai**
