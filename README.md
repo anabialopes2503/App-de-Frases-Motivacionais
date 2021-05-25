@@ -93,7 +93,7 @@ Cada um faz uma parte, não fica pesado para ninguém, nós nos ajudamos, e na h
 
 **•	Qual a vantagem do versionador (GitHub)?**
 
-O GitHub facilita na hora do projeto, de modo que podemos organizar melhor, compartilhar nossas ideias com outras pessoas e reduz o nosso tempo de fazer o trabalho, pois ele já estará totalmente centrado no versionador, e assim todos poderão acessar e ao mesmo tempo modificar algo já feito no seu repositório. 
+O GitHub facilita na hora do projeto, de modo que podemos organizar melhor, compartilhar nossas ideias com outras pessoas e reduz o nosso tempo de fazer o trabalho, pois ele já estará totalmente centrado no versionador, e assim todos poderão acessar e ao mesmo tempo modificar algo que já feito em outro repositório. 
 
 **•	Quais foram os maiores desafios enfrentados?**
 
