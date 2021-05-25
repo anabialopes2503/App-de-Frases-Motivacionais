@@ -62,7 +62,7 @@ Demos o primeiro passo e no dia de hoje decidimos fazer as seguintes etapas:
 **Nome do aplicativo:**
 
 
-Polisipo (em grego significa “pausa na dor”)
+Polisipo Motivation (em grego significa “pausa na dor”)
 
 
 **Relatório de Entrega:**
@@ -74,3 +74,28 @@ Layout (Thayssa) - Entregue
 Criar as classes (Yasmim e Júlia) – Em andamento
 
 Nome para o aplicativo (todos os integrantes) – Definido
+
+
+
+# Finalização-do-App-de-Frases-Motivacionais  - Atualização 25/05/2021
+
+**•	Quem trabalhou mais?**
+
+Todos participaram em equipe e contribuirão para que o projeto acontecesse.
+
+**•	Quais foram os aprendizados?**
+
+Aprendemos a trabalhar em equipe, revisamos a matéria aprendida na unidade curricular anterior e aprimoramos nosso conhecimento no GitHub.
+
+**•	Quais as vantagens do trabalho em equipe?**
+
+Cada um faz uma parte, não fica pesado para ninguém, nós nos ajudamos, e na hora de aprender facilita muito quando estamos em equipe.
+
+**•	Qual a vantagem do versionador (GitHub)?**
+
+O GitHub facilita na hora do projeto, de modo que podemos organizar melhor, compartilhar nossas ideias com outras pessoas e reduz o nosso tempo de fazer o trabalho, pois ele já estará totalmente centrado no versionador, e assim todos poderão acessar e ao mesmo tempo modificar algo já feito no seu repositório. 
+
+**•	Quais foram os maiores desafios enfrentados?**
+
+Nenhum, pois todos se ajudarão e quando isso acontece fica mais fácil de fazer, porque o que uma pessoa não sabe fazer a outra sabe e assim vai se complementando. 
+
