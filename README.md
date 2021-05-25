@@ -42,9 +42,8 @@ Aplicativo de frases motivacionais;
 **Firjan Senai**
 
 
-#Atualização 24/05
 
-# Continuação-do-App-de-Frases-Motivacionais 
+# Continuação-do-App-de-Frases-Motivacionais - Atualização 24/05
 
 
 **Relatório**
