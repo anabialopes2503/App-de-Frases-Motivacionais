@@ -99,3 +99,21 @@ O GitHub facilita na hora do projeto, de modo que podemos organizar melhor, comp
 
 Nenhum, pois todos se ajudarão e quando isso acontece fica mais fácil de fazer, porque o que uma pessoa não sabe fazer a outra sabe e assim vai se complementando. 
 
+**Relatório - 25/05/2021**
+
+Terminamos o aplicativo, comentamos o código, atualizamos o nosso Repositório no GitHub e fizemos uma reunião para debatermos as questões finais do projeto.
+
+**Quem participou da reunião:**
+
+1- Ana Beatriz Lopes - Presente
+2- Anna Gabriela - Ausente
+3- Emanuelle Oliveira - Presente
+4- Júlia Corrêa - Presente
+5- Thayssa Porto - Ausente
+6- Yasmim Mota - Presente
+
+**Considerações finais:**
+
+Agradecemos a todos que participaram. Conseguimos alcançar o nosso objetivo com êxito e harmonia! ☺
+
+
